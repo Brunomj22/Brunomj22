@@ -24,7 +24,7 @@
 
 #### Ferramentas que uso:
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
-[<img height="48px" width="48px" alt="Icone Insomnia" src="https://i.postimg.cc/MHch4m7T/insomnia.png"/>](https://insomnia.rest)
+
 [<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 [<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
 [<img height="48px" width="48px" alt="Icone Vercer" src="https://skillicons.dev/icons?i=vercel"/>](https://vercel.com)
@@ -41,10 +41,6 @@
 
 ##
 
-[#### Experiência Profissional:
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-
 #### Formação Acadêmica:
 Na visão geral abaixo você encontrará minha formação acadêmica:
 
@@ -59,6 +55,6 @@ Por favor, encontre-me no [LinkedIn]() para uma descrição mais detalhada da mi
 ##
 
 #### Estatísticas:
-[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno Marques&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
-[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=BrunoMarques&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelltulio&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=israelltulio&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
 [<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=israelltulio&amp;theme=radical"/>](https://github.com/)
