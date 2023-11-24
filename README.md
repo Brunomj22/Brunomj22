@@ -1,25 +1,71 @@
-<div>
-  <a href="https://github.com/Brunomj22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunomj22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunomj22&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/brunomj.bm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-marques-183955210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Brunomj22/Brunomj22/blob/output/github-contribution-grid-snake.svg)
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-</div>
+## Hello, Devs!! 👋
+### O meu nome é Bruno Marques, E Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+
+- 🔰  Sou de São Paulo-SP, Brasil
+- ⚡ Apaixonado por Música e Tecnologia e Jogos
+- 🧠 Estudante de Desenvolvimento Web na Alura/FMU
+- 🏦 Atualmente trabalho como Estoquista na ITT Professional Eletronic Devices São Paulo/SP
+
+##
+
+#### Estou aprendendo sobre:
+[<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
+[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
+[<img height="48px" width="48px" alt="Icone Npm.js" src="https://i.postimg.cc/L8k9jKJ2/Group.png"/>](https://www.npmjs.com)
+[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org)
+[<img height="48px" width="48px" alt="Icone PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org)
+
+##
+
+#### Ferramentas que uso:
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
+[<img height="48px" width="48px" alt="Icone Insomnia" src="https://i.postimg.cc/MHch4m7T/insomnia.png"/>](https://insomnia.rest)
+[<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+[<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
+[<img height="48px" width="48px" alt="Icone Vercer" src="https://skillicons.dev/icons?i=vercel"/>](https://vercel.com)
+[<img height="48px" width="48px" alt="Icone Azuve DevOps" src="https://skillicons.dev/icons?i=azure"/>](https://azure.microsoft.com/pt-br/products/devops/)
+[<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
+[<img height="48px" width="48px" alt="Icone Adobe Ilustrator" src="https://skillicons.dev/icons?i=ai"/>](https://www.adobe.com/br/products/illustrator.html)
+[<img height="48px" width="48px" alt="Icone Adode Photoshop" src="https://skillicons.dev/icons?i=ps"/>](https://www.adobe.com/br/products/photoshop.html)
+
+##
+
+#### Como entrar em contato comigo:
+[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/israelltulio)
+[<img alt="Mail do Icloud Apple" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black"/>](mailto:israelltulio@icloud.com)
+
+##
+
+[#### Experiência Profissional:
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/QMhRjxt3/Icone-UP-3.png"/>](https://www.uzzipay.com/)
+**Strategy and Innovation Analyst** \
+[**UzziPay**](https://www.uzzipay.com/) • Full-time \
+Competências: `Desenvolvimento Estratégico`, `Análise de Viabilidade`, `Eficiência operacional`, 
+<br/> `Análise e Integridade de dados`, `Inovação empresarial`, `Pesquisa de mercado`
+](url)
+##
+
+#### Formação Acadêmica:
+Na visão geral abaixo você encontrará minha formação acadêmica:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/5t8v5X6F/Cubos-Academy.png"/>](https://cubos.academy/)
+**Software Developer** \
+[**Cubos Academy**](https://cubos.academy/) \
+Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React.js`, `TypeScript`
+<br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `Node.js`, `APIs Rest`, `SQL`, `PostgreSQL`
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/israelltulio/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
+##
+
+#### Estatísticas:
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelltulio&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=israelltulio&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
+[<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=israelltulio&amp;theme=radical"/>](https://github.com/)
