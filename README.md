@@ -4,7 +4,7 @@
 ### O meu nome é Bruno Marques, E Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - 🔰 Sou de São Paulo-SP, Brasil
-- ⚡ Apaixonado por Música e Tecnologia e Jogos
+- ⚡ Apaixonado por Música, Tecnologia e Jogos
 - 🧠 Estudante de Desenvolvimento Web na Alura/FMU
 - 🏦 Atualmente trabalho como Estoquista na ITT Professional Eletronic Devices São Paulo/SP
 
@@ -35,7 +35,7 @@
 
 #### Como entrar em contato comigo:
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/bruno-marques-j/)
-[<img alt="Mail do g-mail" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black"/>](mailto:brunomj.bm2@gmaim.com)
+[<img alt="Mail do g-mail" src="https://lens.google.com/search?ep=gsbubu&hl=pt-BR&re=df&p=AbrfA8pnpsd7G8f9eOcHgELD2JlERXtqhGe65LLzB4OzRRG_A2odzDWtW059rsZ7SVUOMW4qLVnYpuLThJOVovuCHvCS6hAmalgIqEm0WmHCObPQpjDswSKfbRJQqsI1P6L48n49S__JOh2xVGLKRFq1Lc-jchD8ZcFQU6CaNiGTUuTqB-m1Ec-rDc4ZyId0dUZ9tbF-dsABMNpIIg%3D%3D#lns=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsIkVrY0tKR1F4TURZNU0yUmxMV0kxTTJRdE5ESmtZeTA1TW1aa0xUVTFZMkUzTkRCaU5qWXdOQklmYjNoTWFFaHpZWEJNYW1Oa2MwZEZNRGhCY0VaUVRqZzNhVjg0YW5kQ1p3PT0iXQ=="/>](mailto:brunomj.bm2@gmaim.com)
 
 ##
 
