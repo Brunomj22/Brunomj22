@@ -44,28 +44,21 @@
 [#### Experiência Profissional:
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/QMhRjxt3/Icone-UP-3.png"/>](https://www.uzzipay.com/)
-**Strategy and Innovation Analyst** \
-[**UzziPay**](https://www.uzzipay.com/) • Full-time \
-Competências: `Desenvolvimento Estratégico`, `Análise de Viabilidade`, `Eficiência operacional`, 
-<br/> `Análise e Integridade de dados`, `Inovação empresarial`, `Pesquisa de mercado`
-](url)
-##
 
 #### Formação Acadêmica:
 Na visão geral abaixo você encontrará minha formação acadêmica:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/5t8v5X6F/Cubos-Academy.png"/>](https://cubos.academy/)
-**Software Developer** \
-[**Cubos Academy**](https://cubos.academy/) \
+[<img align="left" height="94px" width="94px" alt="Warpnet" src=""/>]([https://cubos.academy](https://inscricoes.fmu.br/?utm_medium=ppc&utm_source=adwords&utm_campaign=[TW][Presencial][Gradua%C3%A7ao][Institucional][SP][Search]&utm_term=fmu&hsa_acc=8345468520&hsa_cam=16780763415&hsa_grp=154708004327&hsa_ad=664929691802&hsa_src=g&hsa_net=adwords&hsa_mt=b&hsa_kw=fmu&hsa_tgt=aud-928135217662:kwd-325467768684)/)
+**ANALISE E DESENVOLVIMENTO DE SISTEMAS** \
+[**FMU - Centro Universitário das Faculdades Metropolitanas Unidas**](https://inscricoes.fmu.br/?utm_medium=ppc&utm_source=adwords&utm_campaign=[TW][Presencial][Gradua%C3%A7ao][Institucional][SP][Search]&utm_term=fmu&hsa_acc=8345468520&hsa_cam=16780763415&hsa_grp=154708004327&hsa_ad=664929691802&hsa_src=g&hsa_net=adwords&hsa_mt=b&hsa_kw=fmu&hsa_tgt=aud-928135217662:kwd-325467768684)/) \
 Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React.js`, `TypeScript`
 <br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `Node.js`, `APIs Rest`, `SQL`, `PostgreSQL`
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/israelltulio/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [LinkedIn]() para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 ##
 
 #### Estatísticas:
-[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelltulio&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
-[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=israelltulio&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno Marques&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=BrunoMarques&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
 [<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=israelltulio&amp;theme=radical"/>](https://github.com/)
