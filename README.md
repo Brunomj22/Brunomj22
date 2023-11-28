@@ -3,7 +3,7 @@
 ## Hello, Devs!! 👋
 ### Seja bem-vindo ao meu perfil GitHub O meu nome é Bruno Marques. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 🔰  São Paulo-SP, Brasil
+- 🔰   São Paulo-SP, Brasil
 - ⚡ Apaixonado por Música, Tecnologia e Jogos
 - 🧠 Estudante de Desenvolvimento Web na Alura/FMU
 - 🏦 Atualmente trabalho como Estoquista na ITT Professional Eletronic Devices São Paulo/SP
