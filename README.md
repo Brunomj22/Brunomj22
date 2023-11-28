@@ -1,9 +1,9 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 ## Hello, Devs!! 👋
-### O meu nome é Bruno Marques, E Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+### Seja bem-vindo ao meu perfil GitHub O meu nome é Bruno Marques. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 🔰 Sou de São Paulo-SP, Brasil
+- 🔰  São Paulo-SP, Brasil
 - ⚡ Apaixonado por Música, Tecnologia e Jogos
 - 🧠 Estudante de Desenvolvimento Web na Alura/FMU
 - 🏦 Atualmente trabalho como Estoquista na ITT Professional Eletronic Devices São Paulo/SP
