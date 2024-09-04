@@ -6,7 +6,7 @@
 - 🔰   São Paulo-SP, Brasil
 - ⚡ Apaixonado por Música, Tecnologia e Jogos
 - 🧠 Estudante de Desenvolvimento Web na Alura/FMU
-- 🏦 Atualmente trabalho como Estoquista na ITT Professional Eletronic Devices São Paulo/SP
+- 🏦 Atualmente trabalho como Atendende na Funcional health tech São Paulo/SP
 
 ##
 
